@@ -1,0 +1,84 @@
+.buddy {
+    background-color: rgb(74, 94, 94);
+    font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+.registerform {
+    width: 300px;
+    background-color: white;
+    border-bottom: 10px solid #46A358;
+    padding-top: 52px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    margin: 50px auto;  
+}
+.login{
+    color: #3D3D3D;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; 
+}
+
+.register{
+    color: #46A358;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.default-input{
+    font-size: 14px;
+    line-height: 16px;
+    color: #A5A5A5;
+    border: 1px solid #EAEAEA;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 5px;
+    width: 270px;
+
+
+}
+.line{
+ margin-bottom: 16px;   
+}
+
+.submit{
+    border: none;
+    border-radius: 5px;
+    background: #46A358;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    border: 1px solid #EAEAEA;
+   
+}
+
+/*.username {
+    color: #A5A5A5;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; 
+    border: width: 300px;
+    height: 45px;
+    flex-shrink: 0;;
+
+
+.submit{
+    background-color: #46A358;
+    color: #FFF;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+}*/
